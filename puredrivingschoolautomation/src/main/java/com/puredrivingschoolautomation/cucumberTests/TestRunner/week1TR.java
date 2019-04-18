@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/main/resources/features/week1.feature",glue={"com.puredrivingschoolautomation.cucumberTests"})
+@CucumberOptions(features = "src\\main\\resources\\features\\Week1.feature",glue={"com\\puredrivingschoolautomation\\cucumberTests\\StepDefinition"})
 
 
 public class week1TR {

@@ -1,7 +1,11 @@
 package com.puredrivingschoolautomation.data;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 import java.util.concurrent.TimeUnit;
 
@@ -10,25 +14,15 @@ import java.util.concurrent.TimeUnit;
  */
 public class Objects {
 
+
+
+//    public WebDriver driver = new ChromeDriver();
+
+
     public static void main(String[] args) throws InterruptedException {
 
 
-        }
 
-    private static void openWebpage() {
-        WebDriver driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 
-        driver.get("https://puredrivingschool.com");
-        driver.manage().window().maximize();
-        String title = driver.getTitle();
-
-        if (title.equalsIgnoreCase("Pure Driving School - iRacing - Setups | Videos | Coaching"))
-            System.out.println("Title matches");
-        else
-            System.out.println(title);
-
-    }
-}
-
+}}
 
