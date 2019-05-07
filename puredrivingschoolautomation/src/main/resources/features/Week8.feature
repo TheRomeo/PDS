@@ -10,7 +10,7 @@ Feature: Download setups
             #Ferrari
     And GT Sprint Series is selected
     And Ferrari 488 GT3 is selected
-    Then Week one GT is selected
+    Then Week eight GT is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -20,7 +20,7 @@ Feature: Download setups
             #Audi
     And GT Sprint Series is selected
     And Audi R8 GT3 is selected
-    Then Week one GT is selected
+    Then Week eight GT is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -30,7 +30,7 @@ Feature: Download setups
             #BMW Z4
     And GT Sprint Series is selected
     And BMW Z4 GT3 is selected
-    Then Week one GT is selected
+    Then Week eight GT is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -40,7 +40,7 @@ Feature: Download setups
             #Mercedes AMG
     And GT Sprint Series is selected
     And Mercedes AMG GT3 is selected
-    Then Week one GT is selected
+    Then Week eight GT is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -50,7 +50,7 @@ Feature: Download setups
             #Mclaren MP4-12c
     And GT Sprint Series is selected
     And Mclaren GT3 is selected
-    Then Week one GT is selected
+    Then Week eight GT is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -71,7 +71,7 @@ Feature: Download setups
             #Porsche 911 GTE
     And IMSA is selected
     And Porsche 911 GTE is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -81,7 +81,7 @@ Feature: Download setups
             #Ferrari 488 GTE
     And IMSA is selected
     And Ferrari 488 GTE is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -91,7 +91,7 @@ Feature: Download setups
             #BMW M8 GTE
     And IMSA is selected
     And BMW M8 GTE is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -101,7 +101,7 @@ Feature: Download setups
             #Ford GT GTE
     And IMSA is selected
     And Ford GT GTE is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -111,7 +111,7 @@ Feature: Download setups
             #Audi R8 GT3
     And IMSA is selected
     And Audi R8 IMSA is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -121,7 +121,7 @@ Feature: Download setups
             #Mercedes AMG GT3
     And IMSA is selected
     And Mercedes AMG IMSA is selected
-    Then Week one IMSA is selected
+    Then Week eight IMSA is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -143,7 +143,7 @@ Feature: Download setups
             #Audi R18
     And Le Mans is selected
     And Audi R18 LMP1 is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -153,7 +153,7 @@ Feature: Download setups
             #Porsche 919
     And Le Mans is selected
     And Porsche 919 LMP1 is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -163,7 +163,7 @@ Feature: Download setups
             #HPD
     And Le Mans is selected
     And HPD is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -173,7 +173,7 @@ Feature: Download setups
             #Porsche 911
     And Le Mans is selected
     And Porsche 911 GTE LMS is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -183,7 +183,7 @@ Feature: Download setups
             #Ferrari 488
     And Le Mans is selected
     And Ferrari 488 GTE LMS is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -193,7 +193,7 @@ Feature: Download setups
             #BMW M8
     And Le Mans is selected
     And BMW M8 GTE LMS is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
@@ -203,7 +203,7 @@ Feature: Download setups
             #Ford GT
     And Le Mans is selected
     And Ford GT GTE LMS is selected
-    Then Week one Le Mans is selected
+    Then Week eight Le Mans is selected
     And Setup File is downloaded
     And blap file is downloaded
     And olap file is downloaded
